@@ -14,7 +14,8 @@ Installation
 
     Clone the repository to your local machine:
 
-    git clone https://github.com/your-username/simple-calculator.git
+    git clone https://github.com/shashankguptta/calculator_python.git
+  
 
 Navigate to the project directory:
 
